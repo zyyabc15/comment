@@ -2162,5 +2162,3 @@ To resolve this:
 ## Something Missing?
 
 If you have ideas for more “How To” recipes that should be on this page, [let us know](https://github.com/facebookincubator/create-react-app/issues) or [contribute some!](https://github.com/facebookincubator/create-react-app/edit/master/packages/react-scripts/template/README.md)
-"# comment"  git init git add README.md git commit -m "first commit" git remote add origin https://github.com/zyyabc15/comment.git git push -u origin master
-"# comment1"  git init git add README.md git commit -m "first commit" git remote add origin https://github.com/zyyabc15/comment1.git git push -u origin master
